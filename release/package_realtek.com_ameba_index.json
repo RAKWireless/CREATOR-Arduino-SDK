@@ -18,7 +18,7 @@
           "help": {
             "online": "http://www.rakwireless.com/en/"
           },
-          "url": "https://github.com/RAKWiskey/CREATER-Arduino/raw/master/release/ameba-2.0.1.tar.gz",
+          "url": "https://github.com/RAKWireless/Arduino-test/raw/master/release/ameba-2.0.1.tar.gz",
           "archiveFileName": "ameba-2.0.1.tar.gz",
           "checksum": "SHA-256:7e4c013d178a4d3e02998951003208803339d17e417baa756e0a714c065c4bdf",
           "size": "27065302",
@@ -83,28 +83,28 @@
             {
               "host": "i686-mingw32",
               "archiveFileName": "ameba_tools_windows-1.0.9.tar.gz",
-              "url": "https://github.com/Ameba8195/Arduino/raw/master/release/ameba_tools_windows-1.0.9.tar.gz",
+              "url": "https://github.com/RAKWireless/Arduino-test/raw/master/release/ameba_tools_windows-1.0.9.tar.gz",
               "checksum": "SHA-256:ccb795361cf20a69d41ef97466ee127c4721cd0068f9569b72fdb965356db3ec",
               "size": "784212"
             },
             {
               "host": "x86_64-apple-darwin",
               "archiveFileName": "ameba_tools_macosx-1.0.9.tar.gz",
-              "url": "https://github.com/Ameba8195/Arduino/raw/master/release/ameba_tools_macosx-1.0.9.tar.gz",
+              "url": "https://github.com/RAKWireless/Arduino-test/raw/master/release/ameba_tools_macosx-1.0.9.tar.gz",
               "checksum": "SHA-256:d4b938b34140d8bab16efc538f482bf61c22795ad690c9114215286e37ab7fdd",
               "size": "64855"
             },
             {
                "host":"x86_64-pc-linux-gnu",
                "archiveFileName": "ameba_tools_linux-1.0.9-v2.tar.gz",
-               "url":"https://github.com/Ameba8195/Arduino/raw/master/release/ameba_tools_linux-1.0.9-v2.tar.gz",
+               "url":"https://github.com/RAKWireless/Arduino-test/raw/master/release/ameba_tools_linux-1.0.9-v2.tar.gz",
                "checksum":"SHA-256:e55c49504521d4084c753983e3102fbedecf085d7aaba6fdbf3194ce52ce9ea5",
                "size":"3212475"
             },
             {
                "host":"i686-pc-linux-gnu",
                "archiveFileName": "ameba_tools_linux-1.0.9-v2.tar.gz",
-               "url":"https://github.com/Ameba8195/Arduino/raw/master/release/ameba_tools_linux-1.0.9-v2.tar.gz",
+               "url":"https://github.com/RAKWireless/Arduino-test/raw/master/release/ameba_tools_linux-1.0.9-v2.tar.gz",
                "checksum":"SHA-256:e55c49504521d4084c753983e3102fbedecf085d7aaba6fdbf3194ce52ce9ea5",
                "size":"3212475"
             }
