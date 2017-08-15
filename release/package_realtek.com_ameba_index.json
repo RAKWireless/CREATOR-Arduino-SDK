@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "RAK",
-      "maintainer": "Realtek",
+      "maintainer": "RAK",
       "websiteURL": "http://www.rakwireless.com/en/",
       "email": "ken.yu@rakwireless.com",
       "help": {
