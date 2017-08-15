@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "realtek",
+      "name": "RAK",
       "maintainer": "Realtek",
       "websiteURL": "http://www.rakwireless.com/en/",
       "email": "ken.yu@rakwireless.com",
@@ -28,12 +28,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "realtek",
+              "packager": "RAK",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
             {
-              "packager": "realtek",
+              "packager": "RAK",
               "name": "ameba_tools",
               "version": "1.0.9"
             }
