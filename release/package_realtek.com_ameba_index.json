@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "RAK",
+      "name": "realtek",
       "maintainer": "Realtek",
       "websiteURL": "http://www.rakwireless.com/en/",
       "email": "ken.yu@rakwireless.com",
@@ -12,7 +12,7 @@
       "platforms": [
         {
           "name": "RAK CREAIOR Boards (32-bits ARM Cortex-M3)",
-          "architecture": "CREATOR",
+          "architecture": "ameba",
           "version": "2.0.1",
           "category": "Contributed",
           "help": {
@@ -28,12 +28,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "RAK",
+              "packager": "realtek",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
             {
-              "packager": "RAK",
+              "packager": "realtek",
               "name": "ameba_tools",
               "version": "1.0.9"
             }
