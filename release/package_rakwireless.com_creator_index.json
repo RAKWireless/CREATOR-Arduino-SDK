@@ -12,7 +12,7 @@
       "platforms": [
         {
           "name": "RAK CREAIOR Boards (32-bits ARM Cortex-M3)",
-          "architecture": "CREATOR",
+          "architecture": "ameba",
           "version": "2.0.1",
           "category": "Contributed",
           "help": {
