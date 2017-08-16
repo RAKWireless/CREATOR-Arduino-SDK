@@ -12,7 +12,7 @@
       "platforms": [
         {
           "name": "RAK CREAIOR Boards (32-bits ARM Cortex-M3)",
-          "architecture": "ameba",
+          "architecture": "CREATOR",
           "version": "2.0.1",
           "category": "Contributed",
           "help": {
@@ -20,8 +20,8 @@
           },
           "url": "https://github.com/RAKWireless/Arduino-test/raw/master/release/ameba-2.0.1.tar.gz",
           "archiveFileName": "ameba-2.0.1.tar.gz",
-          "checksum": "SHA-256:7e4c013d178a4d3e02998951003208803339d17e417baa756e0a714c065c4bdf",
-          "size": "27065302",
+          "checksum": "SHA-256:76f03b61cde7890ae8426ceca81c94aad675a1626b36fee27881714a4e3a94ae",
+          "size": "26082640",
           "boards": [
             {"name": "CREATOR RTL8711A"},
             {"name": "CREATOR RTL8710"}
