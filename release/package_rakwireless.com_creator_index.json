@@ -13,13 +13,13 @@
         {
           "name": "RAK CREAIOR Boards (32-bits ARM Cortex-M3)",
           "architecture": "ameba",
-          "version": "2.0.1",
+          "version": "2.0.2",
           "category": "Contributed",
           "help": {
             "online": "http://www.rakwireless.com/en/"
           },
           "url": "https://github.com/RAKWireless/Arduino-test/raw/master/release/ameba-2.0.1.tar.gz",
-          "archiveFileName": "ameba-2.0.1.tar.gz",
+          "archiveFileName": "ameba-2.0.2.tar.gz",
           "checksum": "SHA-256:76f03b61cde7890ae8426ceca81c94aad675a1626b36fee27881714a4e3a94ae",
           "size": "26082640",
           "boards": [
