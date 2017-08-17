@@ -18,7 +18,7 @@
           "help": {
             "online": "http://www.rakwireless.com/en/"
           },
-          "url": "https://github.com/RAKWireless/CREATOR-Arduino-SDK/raw/master/release/ameba-2.0.1.tar.gz",
+          "url": "https://github.com/RAKWireless/CREATOR-Arduino-SDK/raw/master/release/ameba-2.0.2.tar.gz",
           "archiveFileName": "ameba-2.0.2.tar.gz",
           "checksum": "SHA-256:12d15f4a4d060b899c384fbee34fbd8e91de41b520ea3ae3db7e2f366a825ca4",
           "size": "26911866",
