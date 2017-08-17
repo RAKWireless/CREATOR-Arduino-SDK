@@ -18,10 +18,10 @@
           "help": {
             "online": "http://www.rakwireless.com/en/"
           },
-          "url": "https://github.com/RAKWireless/Arduino-test/raw/master/release/ameba-2.0.1.tar.gz",
+          "url": "https://github.com/RAKWireless/CREATOR-Arduino-SDK/raw/master/release/ameba-2.0.1.tar.gz",
           "archiveFileName": "ameba-2.0.2.tar.gz",
-          "checksum": "SHA-256:76f03b61cde7890ae8426ceca81c94aad675a1626b36fee27881714a4e3a94ae",
-          "size": "26082640",
+          "checksum": "SHA-256:12d15f4a4d060b899c384fbee34fbd8e91de41b520ea3ae3db7e2f366a825ca4",
+          "size": "26911866",
           "boards": [
             {"name": "CREATOR RTL8711A"},
             {"name": "CREATOR RTL8710"}
@@ -83,28 +83,28 @@
             {
               "host": "i686-mingw32",
               "archiveFileName": "ameba_tools_windows-1.0.9.tar.gz",
-              "url": "https://github.com/RAKWireless/Arduino-test/raw/master/release/ameba_tools_windows-1.0.9.tar.gz",
+              "url": "https://github.com/RAKWireless/CREATOR-Arduino-SDK/raw/master/release/ameba_tools_windows-1.0.9.tar.gz",
               "checksum": "SHA-256:ccb795361cf20a69d41ef97466ee127c4721cd0068f9569b72fdb965356db3ec",
               "size": "784212"
             },
             {
               "host": "x86_64-apple-darwin",
               "archiveFileName": "ameba_tools_macosx-1.0.9.tar.gz",
-              "url": "https://github.com/RAKWireless/Arduino-test/raw/master/release/ameba_tools_macosx-1.0.9.tar.gz",
+              "url": "https://github.com/RAKWireless/CREATOR-Arduino-SDK/raw/master/release/ameba_tools_macosx-1.0.9.tar.gz",
               "checksum": "SHA-256:d4b938b34140d8bab16efc538f482bf61c22795ad690c9114215286e37ab7fdd",
               "size": "64855"
             },
             {
                "host":"x86_64-pc-linux-gnu",
                "archiveFileName": "ameba_tools_linux-1.0.9-v2.tar.gz",
-               "url":"https://github.com/RAKWireless/Arduino-test/raw/master/release/ameba_tools_linux-1.0.9-v2.tar.gz",
+               "url":"https://github.com/RAKWireless/CREATOR-Arduino-SDK/raw/master/release/ameba_tools_linux-1.0.9-v2.tar.gz",
                "checksum":"SHA-256:e55c49504521d4084c753983e3102fbedecf085d7aaba6fdbf3194ce52ce9ea5",
                "size":"3212475"
             },
             {
                "host":"i686-pc-linux-gnu",
                "archiveFileName": "ameba_tools_linux-1.0.9-v2.tar.gz",
-               "url":"https://github.com/RAKWireless/Arduino-test/raw/master/release/ameba_tools_linux-1.0.9-v2.tar.gz",
+               "url":"https://github.com/RAKWireless/CREATOR-Arduino-SDK/raw/master/release/ameba_tools_linux-1.0.9-v2.tar.gz",
                "checksum":"SHA-256:e55c49504521d4084c753983e3102fbedecf085d7aaba6fdbf3194ce52ce9ea5",
                "size":"3212475"
             }
