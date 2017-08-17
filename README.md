@@ -2,6 +2,7 @@
 
 # Use guide
 1.First: download the Arduino IDE.see the link :https://www.arduino.cc/en/Main/Software
+
 2.Secend: download the CREATOR Arduino library. 
    Arduino IDE 1.6.5 support third party hardware by providing hardware configuration.
 You need add Ameba's configuration in "File" -> "Preferences".
