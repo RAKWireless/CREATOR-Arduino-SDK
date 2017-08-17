@@ -23,7 +23,7 @@
     Place "package_rakwireless.com_creator_index.json" and "ameba-1.0.0.tar.gz" to correspond URL.
 
     Here we use github public link:
-        https://github.com/RAKWireless/Arduino-test/raw/master/release/package_rakwireless.com_creator_index.json
+        https://github.com/RAKWireless/CREATOR-Arduino-SDK/raw/master/release/package_rakwireless.com_creator_index.json
 
 
 Reference:
