@@ -28,12 +28,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "RAK",
+              "packager": "ameba",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
             {
-              "packager": "RAK",
+              "packager": "ameba",
               "name": "ameba_tools",
               "version": "1.0.9"
             }
